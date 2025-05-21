@@ -1,0 +1,24 @@
+# Compilação
+*.exe
+*.o
+*.out
+*.a
+*.so
+*.dll
+
+# Pasta bin
+bin/
+
+# VS Code
+.vscode/
+
+# Arquivos temporários/sistema
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+.DS_Store
+Thumbs.db
+
