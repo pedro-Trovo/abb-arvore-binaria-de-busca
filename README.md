@@ -45,7 +45,7 @@ void insere(int i, t_abb *a);
 ```c
 void exibe_in_order(t_abb *a);
 ```
-- Mostra os valores ordenados do menor para o maior (in-order)
+- Mostra os valores ordenados do menor para o maior (em ordem)
 
 ### `exibe_rev_order`
 ```c
