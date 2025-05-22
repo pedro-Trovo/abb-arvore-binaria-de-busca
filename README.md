@@ -139,3 +139,8 @@ gcc src/main.c src/abb.c src/no.c -Iinclude -o abb
 ```bash
 abb.exe
 ```
+<br><br>
+
+# Imagens do Projeto
+## Caso de teste completo - ABB
+<img alt="terminal_resultado" src="readme-img/terminal_resultado.png">
